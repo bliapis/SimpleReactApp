@@ -1,3 +1,31 @@
+
+#Bruno React Simple App
+Simple react app with a table to list authors, books, price and remove button, and a form to add new lines to the table.
+
+##Technologies
+ - React
+ - Materialize CSS
+
+##Techniques
+ - Class Component
+ - Function Component
+ - State
+ - JSX
+
+##Versions
+ - NodeJS version 10.19.0
+ - Materialize CSS version 1.0.0 (from https://materializecss.com/)
+
+##Why that application?
+I am a fullstack .Net developer postgraduate degree in Big Data Analysis, and I love new technologies and have the knowledge to bring new skills to my team, because that I am starting a new study plan, which I will study the following technologies: 
+ - React
+ - DevOps: Docker, Kubernets and Continuous Integration
+ - Update my skills in microservices
+ - Blazor as a plus
+
+
+#React Default Instructions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
